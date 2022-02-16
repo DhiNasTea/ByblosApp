@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" searchBarInfo="Please use the search bar above to search for the branch name">Byblos Mobile App</string>
+    <string name="searchBarInformation">Please use the search bar at the top of the screen to find a branch by its name</string>
+</resources>

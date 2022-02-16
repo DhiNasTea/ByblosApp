@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_weight="4"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    >
+    <!--android:background="@drawable/anotherblue"-->
+
+
+    <EditText
+        android:id="@+id/service_info_field"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:layout_marginHorizontal="10dp"
+        android:inputType="textPersonName"
+
+        android:text="Service Name" />
+
+    <EditText
+        android:id="@+id/startTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:ems="10"
+        android:layout_marginHorizontal="3dp"
+        android:inputType="textPersonName"
+        android:text="Start" />
+
+    <EditText
+        android:id="@+id/endTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:ems="10"
+        android:layout_marginHorizontal="3dp"
+        android:inputType="textPersonName"
+        android:text="End" />
+
+    <CheckBox
+        android:id="@+id/serviceToReviewCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="Select" />
+
+</LinearLayout>

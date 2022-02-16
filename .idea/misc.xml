@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_car_rental_form.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_car_rental_form2.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_customer_service_request.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_employee_branch.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_main.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_moving_assistance_form.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_moving_assistance_form2.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_service_approval.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_truck_rental_form.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/activity_welcome_page.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/add_service_to_employee_selection.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/modify_service.xml" value="0.1796875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/row_service_request.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/layout/services_from_db.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/menu/menu.xml" value="0.3671875" />
+        <entry key="..\:/Users/dhiaa/Documents/Documents/Dhiaa/Uni_/Semesters/Fall 2021/SEG 2105/Git/Project/Project_Group_31/app/src/main/res/xml/searchable.xml" value="0.3671875" />
+        <entry key="..\:/Users/koolb/OneDrive/Documents/School/Second Year/Fall Sem/SEG2105/Project Deliverables/Project_Group_31/app/src/main/res/layout/activity_admin_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/koolb/OneDrive/Documents/School/Second Year/Fall Sem/SEG2105/Project Deliverables/Project_Group_31/app/src/main/res/layout/activity_branch.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/koolb/OneDrive/Documents/School/Second Year/Fall Sem/SEG2105/Project Deliverables/Project_Group_31/app/src/main/res/layout/activity_car_rental_form.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/koolb/OneDrive/Documents/School/Second Year/Fall Sem/SEG2105/Project Deliverables/Project_Group_31/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/koolb/OneDrive/Documents/School/Second Year/Fall Sem/SEG2105/Project Deliverables/Project_Group_31/app/src/main/res/layout/activity_moving_assistance_form2.xml" value="0.264" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_admin_page.xml" value="0.3625" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_car_rental_form.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_car_rental_form2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_customer_service_request.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_employee_branch.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_moving_assistance_form.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_moving_assistance_form2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_services_of_selected_branch.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_sign_up.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_truck_rental_form.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_truck_rental_form2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/activity_welcome_page.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/add_address_data.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/add_date_data.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/add_numerical_data.xml" value="0.3625" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/add_service_row.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/add_service_to_employee_selection.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/branch_row.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/display_employee.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/modify_service.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/nguye/AndroidStudioProjects/Project_Group_31/app/src/main/res/layout/services_from_db.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/Project_Group_31/app/src/main/res/layout/activity_admin_page.xml" value="0.2957427536231884" />
+        <entry key="..\:/dev/Project_Group_31/app/src/main/res/layout/activity_car_rental_form.xml" value="0.215625" />
+        <entry key="..\:/dev/SEG2105_Project/Project_Group_31/app/src/main/res/layout/activity_admin_page.xml" value="0.30885416666666665" />
+        <entry key="..\:/dev/SEG2105_Project/Project_Group_31/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/dev/SEG2105_Project/Project_Group_31/app/src/main/res/layout/activity_truck_rental_form.xml" value="0.5" />
+        <entry key="..\:/dev/SEG2105_Project/Project_Group_31/app/src/main/res/layout/activity_welcome_page.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_admin_page.xml" value="0.23180690946456659" />
+        <entry key="app/src/main/res/layout/activity_customer_service_request.xml" value="0.4995787700084246" />
+        <entry key="app/src/main/res/layout/activity_employee_branch.xml" value="0.35833333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27798659049117164" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.27661543674978967" />
+        <entry key="app/src/main/res/layout/activity_truck_rental_form.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/activity_truck_rental_form2.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/activity_welcome_page.xml" value="0.312855018270059" />
+        <entry key="app/src/main/res/layout/add_address_data.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/add_date_data.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/add_numerical_data.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/add_service_row.xml" value="0.20260416666666667" />
+        <entry key="app/src/main/res/layout/add_service_to_employee_selection.xml" value="0.39791666666666664" />
+        <entry key="app/src/main/res/layout/branch_row.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/display_employee.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/modify_service.xml" value="0.30885416666666665" />
+        <entry key="app/src/main/res/layout/services_from_db.xml" value="0.1859375" />
+        <entry key="app/src/main/res/layout/sign_up_page.xml" value="0.26948880148857096" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.19895833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.49271094565168166" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
