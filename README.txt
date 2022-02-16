@@ -1,3 +1,5 @@
+University project for the course SEG 2105 (uOttawa)
+
 Authors: Harieshan Elamurugan, Kavin Gnanapandithan, Qassim Alkassir, Dhiaa Naas, Jerry Nguyen
 
 
